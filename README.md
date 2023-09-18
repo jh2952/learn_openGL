@@ -1,4 +1,4 @@
-<h1>Learn C++</h1>
+<h1>Learn OpenGL</h1>
 
 <h2>Description</h2>
 
